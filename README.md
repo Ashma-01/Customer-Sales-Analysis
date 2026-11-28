@@ -19,7 +19,8 @@ Data cleaning and preprocessing is an important step in this project. The origin
 
 ### 2. Removing Duplicates
 - Identified duplicate records.
-- Removed 115 completely duplicated rows.
+- Removed
+- 15 completely duplicated rows.
 
 ### 3. Correcting Data Types
 - Converted date columns into datetime format.
